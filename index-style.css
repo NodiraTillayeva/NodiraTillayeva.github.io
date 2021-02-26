@@ -1,0 +1,27 @@
+body {
+  background-color: #6b213c;
+  font-family: Helvetica; 
+}
+
+h1 {
+  color: white;
+	}
+h2 { 
+	background-color: #1a080e; 
+	color: #6b213c; 
+	font-style: italic;
+}
+b { 
+	color: white; 
+}
+a
+{
+	color: white; 
+}
+ul {
+  background: #ab637c;
+  padding: 25px;
+}
+
+
+
